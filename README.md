@@ -1,2 +1,1 @@
 # redoclyTask
-redoclyTask
